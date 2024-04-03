@@ -37,7 +37,7 @@ public class UAV {
      {
          System.out.println("UAN'dan füze ateşlendi.");
          System.out.println("bu bir 111");
-
+System.out.println("bu bir testtier");
 
      }else {
          System.out.println("Bu UAV füze taşıyamaz.");
