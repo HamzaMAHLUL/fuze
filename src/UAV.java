@@ -36,6 +36,7 @@ public class UAV {
      if(FuzeTasiyabilirMi)
      {
          System.out.println("UAN'dan füze ateşlendi.");
+          System.out.println("bu bir testtir");
      }else {
          System.out.println("Bu UAV füze taşıyamaz.");
      }
